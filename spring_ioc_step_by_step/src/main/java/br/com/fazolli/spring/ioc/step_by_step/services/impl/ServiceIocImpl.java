@@ -1,4 +1,6 @@
-package br.com.fazolli.spring.ioc.step_by_step;
+package br.com.fazolli.spring.ioc.step_by_step.services.impl;
+
+import br.com.fazolli.spring.ioc.step_by_step.services.ServiceIoc;
 
 /**
  * Created by fernandofazolli on 11/06/18.
